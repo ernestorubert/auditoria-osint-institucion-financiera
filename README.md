@@ -45,7 +45,6 @@ El hallazgo evidencia cómo errores comunes de configuración pueden traducirse 
 ## 📜 Licencia y uso
 
 Este contenido se publica **con fines educativos y profesionales**.  
-No contiene información sensible real ni compromete sistemas activos.  
 El objetivo es mostrar capacidades en **auditoría de seguridad, OSINT y buenas prácticas DevSecOps**.
 
 ---
