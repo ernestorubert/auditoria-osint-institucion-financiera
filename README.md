@@ -39,7 +39,7 @@ El hallazgo evidencia cómo errores comunes de configuración pueden traducirse 
 
 ## 📂 Contenido del repositorio
 
-- [`reporte-auditoria-anonimizado.pdf`](./reporte-auditoria-anonimizado.pdf) – Informe completo y censurado
+- [`reporte-auditoria-anonimizado.pdf`](./Auditoría%20de%20Seguridad%20OSINT%20Exposición%20Crítica%20de%20Logs%20y%20Credenciales%20en%20Entorno%20Financiero.pdf) – Informe completo y censurado
 - Este `README.md` – Presentación general del caso técnico
 
 ## 📜 Licencia y uso
